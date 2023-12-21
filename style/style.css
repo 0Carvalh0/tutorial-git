@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+body {
+    background-color: lightblue;
+    color: darkslateblue;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
